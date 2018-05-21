@@ -4,7 +4,7 @@
 //  URL, Path, Parameters, Method, Data Type
 
 function getPlayerStates (player) {
-    var API_KEY = "8J2LDOGO4LMSMXD0G8RMJWO2CHCXYGYC";
+    var API_KEY = "";
     var baseURL = "https://api.rocketleaguestats.com/v1/player";
     var playerId = player;
     var platform = "1";
